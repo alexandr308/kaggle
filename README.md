@@ -4,4 +4,4 @@
 
 3. [Simple Titanic feature engineering + Random Forest (Titanic)](https://github.com/alexandr308/kaggle/blob/master/Simple%20Titanic%20feature%20engineering%20%2B%20Random%20Forest%20(Titanic).ipynb) - [kaggle link](https://www.kaggle.com/c/titanic)
 
-4. [House Prices -  EDA, NN + boosts + lin models](https://github.com/alexandr308/kaggle/blob/master/Simple%20Titanic%20feature%20engineering%20%2B%20Random%20Forest%20(Titanic).ipynb) - [kaggle link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+4. [House Prices -  EDA, NN + boosts + lin models](https://github.com/alexandr308/kaggle/blob/master/House%20Prices%20-%20%20EDA%2C%20NN%20%2B%20boosts%20%2B%20lin%20models.ipynb) - [kaggle link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
